@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m Python Developer
+- 🔭 I’m a Python Developer
 - 📚 I'm a Computer Science student at Centro Universitário Filadélfia - UniFil, from Londrina, Paraná, Brazil
 - 🌱 I’m currently learning JavaScript, AngularJS, FastApi and in-depth Python concepts for web development
 - 👯 I’m currently working on Koper Systems Technology Management Information LTDA
