@@ -8,7 +8,8 @@
 - 📚 I'm a Computer Science student at Centro Universitário Filadélfia - UniFil, from Londrina, Paraná, Brazil
 - 🌱 I’m currently learning JavaScript, AngularJS, FastApi and in-depth Python concepts for web development
 - 👯 I’m currently working on Koper Systems Technology Management Information LTDA
-- 📫 How to reach me: [Discord](https://discord.com/users/Gabmats#2326) [My E-Mail](gabrielmatheusaguilera@gmail.com)
+- 📫 How to reach me: - [Discord](https://discord.com/users/Gabmats#2326)
+                      - gabrielmatheusaguilera@gmail.com
 
 <br>
  💡 I currently have experience with the following technologies
